@@ -1,7 +1,5 @@
-package dev.koh.competitiveprogramming.hackerrank.DSA.LinkedList;
+package dev.koh.competitivecoding.hackerrank.DSA.LinkedList;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -55,7 +53,7 @@ public class CycleDetection {
     // Complete the hasCycle function below.
 
     public static void main(String[] args) throws IOException {
-        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+//        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.out));
 
         int tests = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
@@ -93,11 +91,12 @@ public class CycleDetection {
 
             boolean result = hasCycle(llist.head);
 
-            bufferedWriter.write(String.valueOf(result ? 1 : 0));
-            bufferedWriter.newLine();
+            System.out.println(result ? 1 : 0);
+//            bufferedWriter.write(String.valueOf(result ? 1 : 0));
+//            bufferedWriter.newLine();
         }
 
-        bufferedWriter.close();
+//        bufferedWriter.close();
 
         scanner.close();
     }

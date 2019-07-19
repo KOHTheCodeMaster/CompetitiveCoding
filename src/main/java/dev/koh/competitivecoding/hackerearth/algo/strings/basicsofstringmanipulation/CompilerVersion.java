@@ -1,4 +1,4 @@
-package dev.koh.competitiveprogramming.hackerearth.algo.strings.basicsofstringmanipulation;
+package dev.koh.competitivecoding.hackerearth.algo.strings.basicsofstringmanipulation;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

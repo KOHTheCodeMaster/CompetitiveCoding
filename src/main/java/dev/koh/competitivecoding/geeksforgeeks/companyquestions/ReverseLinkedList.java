@@ -1,4 +1,4 @@
-package dev.koh.competitiveprogramming.geeksforgeeks.companyquestions;
+package dev.koh.competitivecoding.geeksforgeeks.companyquestions;
 
 import java.io.*;
 

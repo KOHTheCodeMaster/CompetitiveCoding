@@ -1,4 +1,4 @@
-package dev.koh.competitiveprogramming.exams;
+package dev.koh.competitivecoding.exams;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package dev.koh.competitiveprogramming.hackerearth.algo.strings.basicsofstringmanipulation;
+package dev.koh.competitivecoding.hackerearth.algo.strings.basicsofstringmanipulation;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -37,7 +37,15 @@ class AliceAndStrings {
 
 /*
  *  Date Created  : 17th July 2K19, 09:46 PM..!!
- *  Last Modified  : 19th July 2K19, 10:35 AM..!!
+ *  Last Modified  : 19th July 2K19, 08:37 PM..!!
+ *
+ *  <| ================================================================ |>
+ *
+ *  3rd Commit - [1 Q. | GeeksForGeeks]
+ *  1. CrackTheSeries [100%] | GeeksForGeeks > Company Problems > Cognizant
+ *
+ *  Note:
+ *      MathContext is used for Better precision when dealing with Huge values
  *
  *  <| ================================================================ |>
  *

@@ -1,4 +1,4 @@
-package dev.koh.competitiveprogramming.codingbat;
+package dev.koh.competitivecoding.codingbat;
 
 public class Recursion {
 
