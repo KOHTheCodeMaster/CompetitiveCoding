@@ -37,6 +37,18 @@ class AliceAndStrings {
 
 /*
  *  Date Created  : 17th July 2K19, 09:46 PM..!!
+ *  Last Modified  : 19th July 2K19, 10:35 AM..!!
+ *
+ *  <| ================================================================ |>
+ *
+ *  2nd Commit - [2 Q. | GeeksForGeeks | HackerRank]
+ *  1. CycleDetection [100%] | HackerRank > DSA > LinkedList
+ *  2. ReversedLinkedList [100%] | GeeksForGeeks > Company Problems > Cognizant
+ *
+ *  Note:
+ *      Detect Loop in linked list problem of GeeksForGeeks which is
+ *      same as CycleDetection [HR] prompted with Time Limit Exceeded Error with
+ *      Time should be < 0.2 seconds
  *
  *  <| ================================================================ |>
  *
